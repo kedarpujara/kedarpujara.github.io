@@ -9,6 +9,20 @@
 }
 
 
+
+.aboutme {
+	border-left:2px solid black;
+	padding-left: 18px;
+}
+.extraC {
+
+}
+
+.left-align{
+	float:left;
+	margin-right:20px;
+}
+
 .navbar.center .navbar-inner {
     text-align: center;
 }
@@ -17,7 +31,10 @@
     display:inline-block;
     float: none;
 }
-
+.image-responsive {
+	text-align: center;
+	align-content: center;
+}
 
 html, body {
 	font-family: Ubuntu;
