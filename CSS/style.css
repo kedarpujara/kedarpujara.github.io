@@ -1,0 +1,78 @@
+.navbar-nav a{
+	/*color: #ECEFF1;*/
+}
+
+.navbar- li a:hover {
+	background-color: red;
+	text-decoration: none;
+	border-color: orange;
+}
+
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+
+
+html, body {
+	font-family: Ubuntu;
+
+}
+
+#my-navbar{
+	/*color: #ECEFF1;*/
+	/*background-color: #318aff;*/
+	text-decoration-color: red;
+}
+
+.icon-bar {
+	color: #ECEFF1 ;
+}
+
+
+#nav-header-links {
+	padding-top: 10px;
+	color: #318aff;
+	font-size: 30;
+}
+
+#navbar-collapse {
+	color: #318aff;
+
+}
+#gedu {
+	padding-left: 10px;
+}
+
+/*body {
+	margin: 0 auto;
+	background-color: #7fcaff;
+	color: #7fcaff;
+}*/
+
+/*.container {
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 70px;
+	background-color: #7fca
+		
+}
+*/
+/*
+
+hr {
+	display: block;
+    margin-top: 0.0em;
+    margin-bottom: 0.0em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+	}*/
