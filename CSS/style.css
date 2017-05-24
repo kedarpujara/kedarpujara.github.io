@@ -1,6 +1,4 @@
-.navbar-nav a{
-	/*color: #ECEFF1;*/
-}
+
 
 .navbar- li a:hover {
 	background-color: red;
@@ -9,15 +7,10 @@
 }
 
 
-
 .aboutme {
 	border-left:2px solid black;
 	padding-left: 18px;
 }
-.extraC {
-
-}
-
 .left-align{
 	float:left;
 	margin-right:20px;
@@ -42,9 +35,6 @@ html, body {
 }
 
 #my-navbar{
-	/*color: #ECEFF1;*/
-	/*background-color: #318aff;*/
-	text-decoration-color: red;
 }
 
 .icon-bar {
