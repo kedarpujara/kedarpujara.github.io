@@ -1,3 +1,14 @@
+/*html, body {
+	font-family: Ubuntu;
+
+}*/
+
+/* For the linkes on the nav bar header (About Me, Extracirriculars, etc.)
+/*#nav-header-links {
+	padding-top: 10px;
+	color: #318aff;
+	font-size: 30;
+}*/
 
 
 .navbar- li a:hover {
@@ -6,11 +17,11 @@
 	border-color: orange;
 }
 
-
+/*
 .aboutme {
 	border-left:2px solid black;
 	padding-left: 18px;
-}
+}*/
 .left-align{
 	float:left;
 	margin-right:20px;
@@ -29,33 +40,25 @@
 	align-content: center;
 }
 
-html, body {
-	font-family: Ubuntu;
-
-}
 
 #my-navbar{
 }
 
 .icon-bar {
-	color: #ECEFF1 ;
+	color: #ECEFF1;
 }
 
 
-#nav-header-links {
-	padding-top: 10px;
-	color: #318aff;
-	font-size: 30;
-}
+
 
 #navbar-collapse {
 	color: #318aff;
 
 }
-#gedu {
+/*#gedu {
 	padding-left: 10px;
 }
-
+*/
 /*body {
 	margin: 0 auto;
 	background-color: #7fcaff;
